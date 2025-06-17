@@ -93,3 +93,10 @@ Shows **monthly expense trends**, useful for identifying patterns and tracking f
 ## ✅ Conclusion
 
 This Expense Management System provides a robust foundation for tracking and analyzing personal finances. With a modular architecture using FastAPI and Streamlit, it's designed for both simplicity and scalability. Whether you're managing your own budget or building a finance tool for others, this project offers a solid starting point for further development and customization.
+
+---
+
+## ⭐ Like this project?
+
+If you found this Expense Management System useful or inspiring, feel free to **star** the repository and **explore the source code**.
+
