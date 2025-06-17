@@ -77,3 +77,9 @@ pytest tests/
 
 ### ➕ Add Expense Form
 ![Add Expense](screenshots/2.png)
+
+---
+
+## ✅ Conclusion
+
+This Expense Management System provides a robust foundation for tracking and analyzing personal finances. With a modular architecture using FastAPI and Streamlit, it's designed for both simplicity and scalability. Whether you're managing your own budget or building a finance tool for others, this project offers a solid starting point for further development and customization.
