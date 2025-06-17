@@ -1,0 +1,81 @@
+# 💸 Expense Management System
+
+An efficient and user-friendly **Expense Management System** built with **FastAPI** for the backend and **Streamlit** for the frontend. This application allows users to track, manage, and visualize expenses with ease.
+
+---
+
+## 🗂 Project Structure
+
+```
+PROJECT_EXPENSE_TRACKING_SYSTEM/
+├── backend/               # FastAPI server and database helpers
+├── frontend/              # Streamlit user interface
+├── tests/                 # Unit tests for backend and frontend
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+```
+
+---
+
+## 🚀 Features
+
+- 📊 Add, edit, and delete expenses
+- 📅 Track expenses over time
+- 📈 Visualize spending through charts and summaries
+- 🧩 Modular structure for easy maintenance and scalability
+- 🧪 Unit tests for code reliability
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend**: [Streamlit](https://streamlit.io/)
+- **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
+- **Database**: SQLite (via `db_helper.py`)
+- **Testing**: Pytest
+- **Other**: Logging utilities, REST API endpoints
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/DeviPravallikaKarry/expense-management-system
+   cd expense-management-system
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Backend Server**
+   ```bash
+   uvicorn backend.server:app --reload
+   ```
+
+4. **Run the Frontend (Streamlit App)**
+   ```bash
+   streamlit run frontend/app.py
+   ```
+
+---
+
+## 🧪 Running Tests
+
+```bash
+pytest tests/
+```
+
+---
+
+## 🖼️ Screenshots
+
+*Add screenshots to the `screenshots/` folder and reference them here if needed.*
+
+```markdown
+![Dashboard](screenshots/dashboard.png)
+```
+
+---
