@@ -72,10 +72,8 @@ pytest tests/
 
 ## 🖼️ Screenshots
 
-*Add screenshots to the `screenshots/` folder and reference them here if needed.*
-
-```markdown
+### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
-```
 
----
+### ➕ Add Expense Form
+![Add Expense](screenshots/add_expense.png)
