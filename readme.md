@@ -72,11 +72,21 @@ pytest tests/
 
 ## 🖼️ Screenshots
 
-### 📊 Dashboard
-![Dashboard](screenshots/1.png)
+### 🧾 Add/Update Tab
+This screen allows users to **add new expenses or update existing ones**. It includes fields such as amount, date, category, and description.
+![Add or Update Tab](screenshots/1.png)
 
-### ➕ Add Expense Form
-![Add Expense](screenshots/2.png)
+---
+
+### 📊 Analytics by Category Tab
+Displays **expense distribution by category**, helping users understand where most of their money is going (e.g., Food, Transport, Rent).
+![Analytics by Category](screenshots/2.png)
+
+---
+
+### 📈 Analytics by Month Tab
+Shows **monthly expense trends**, useful for identifying patterns and tracking financial progress over time.
+![Analytics by Month](screenshots/3.png)
 
 ---
 
