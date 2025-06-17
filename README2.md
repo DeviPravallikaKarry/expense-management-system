@@ -73,7 +73,7 @@ pytest tests/
 ## 🖼️ Screenshots
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/1.png)
 
 ### ➕ Add Expense Form
-![Add Expense](screenshots/add_expense.png)
+![Add Expense](screenshots/2.png)
